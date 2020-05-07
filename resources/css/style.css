@@ -1,0 +1,40 @@
+html{
+    16px;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Vardana, sans-serif;
+    color: white;
+}
+
+h1{
+    font-size: 3.125rem;
+    font-weight: normal;
+    justify-content: center;
+}
+
+a{
+    color: Aquamarine;
+}
+
+.section_2 h1{
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+.section_2 h4{
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+footer{
+    text-align: right;
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+.ison{
+    padding-top: 5%;
+}
